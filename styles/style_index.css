@@ -5,3 +5,11 @@ h3{
 .contenedor{
     margin: 10px;
 }
+
+@media screen and (max-width: 422px) {
+    p{
+        font-size: 10px;
+        color: blue;
+    }
+}
+
